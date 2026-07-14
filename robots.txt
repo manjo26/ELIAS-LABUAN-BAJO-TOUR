@@ -1,0 +1,7 @@
+User-agent: *
+
+Allow: /
+
+Sitemap:
+
+https://manjo26.github.io/ELIAS-LABUAN-BAJO-TOUR/sitemap.xml
