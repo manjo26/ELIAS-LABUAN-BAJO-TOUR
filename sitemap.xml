@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
@@ -14,4 +15,22 @@ https://manjo26.github.io/ELIAS-LABUAN-BAJO-TOUR/
 
 </url>
 
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+<url>
+
+<loc>
+
+https://manjo26.github.io/ELIAS-LABUAN-BAJO-TOUR/
+
+</loc>
+
+<priority>1.0</priority>
+
+</url>
+
+>>>>>>> 6871850083dfdb86c5c02cebe7c4802e6cb4ca7d
 </urlset>

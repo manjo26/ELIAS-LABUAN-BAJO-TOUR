@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 User-agent: *
 
 Allow: /
 
 Sitemap:
 
+=======
+User-agent: *
+
+Allow: /
+
+Sitemap:
+
+>>>>>>> 6871850083dfdb86c5c02cebe7c4802e6cb4ca7d
 https://manjo26.github.io/ELIAS-LABUAN-BAJO-TOUR/sitemap.xml
